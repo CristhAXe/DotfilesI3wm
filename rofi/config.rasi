@@ -1,0 +1,11 @@
+configuration {
+	display-drun:"Applications";
+ 	modes: "window,run,ssh,drun,windowcd,filebrowser";
+	display-filebrowser:"Files";
+	display-window:"Switcher";	
+}
+//@theme "/usr/share/rofi/themes/DarkBlue.rasi"
+		
+//@theme "/home/cristhlinx/.local/share/rofi/themes/squared-nord.rasi"
+//@theme "/home/cristhlinx/.local/share/rofi/themes/spotlight-dark.rasi"
+@theme "/home/cristhlinx/.local/share/rofi/themes/squared-nord.rasi"
